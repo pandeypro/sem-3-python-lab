@@ -1,0 +1,7 @@
+m=int(input("enter the marks of maths : "))
+p=int(input("enter the marks of physics : "))
+b=int(input("enter the marks of biology : "))
+e=int(input("enter the marks of english : "))
+c=int(input("enter the marks of chemisty : "))
+print("the aggregate marks = ",m+p+c+e+b)
+print("the percenatge obtained = ",(m+p+c+b+e)/6)

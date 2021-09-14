@@ -1,0 +1,7 @@
+l=int(input("enter the length of the rectangle : "))
+b=int(input("enter the breadth of the rectangle : "))
+r=int(input("enter the radius of the circle : "))
+print("The area of the rectangle = ",l*b)
+print("The perimeter of the rectangle = ",2*(l+b))
+print("The circumference of the circle = ",3.14*2*r)
+print("The area of the circle = ",3.14*r*r)

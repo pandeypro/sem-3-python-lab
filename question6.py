@@ -1,0 +1,8 @@
+a=int(input("enter the marks of 1 subject out of 100 : \n"))
+b=int(input("enter the marks of 2 subject out of 100 : \n"))
+c=int(input("enter the marks of 3 subject out of 100 : \n "))
+d=int(input("enter the marks of 4 subject out of 100 : \n"))
+e=int(input("enter the marks of 5 subject out of 100 : \n"))
+f=int(input("enter the marks of 6 subject out of 100 : \n"))
+print("the sum of all the subjects = ",a+b+c+d+e+f)
+print("the percentage = ",((a+b+c+d+e+f)*100)/600)
